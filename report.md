@@ -1,7 +1,3 @@
-Here’s a complete **Suricata IDS Project Report** you can use as your `report.md` or `summary.txt`. This is formatted for clarity and can be copy-pasted into your repo or submitted as part of your documentation.
-
----
-
 ````markdown
 # 🛡️ Suricata IDS Project Report
 
