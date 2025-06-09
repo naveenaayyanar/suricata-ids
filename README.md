@@ -23,3 +23,9 @@ This project demonstrates how to install, configure, and run Suricata, a powerfu
 - Used `iptables` to block a malicious IP:
   ```bash
   sudo iptables -A INPUT -s 116.119.212.207 -j DROP
+  ✅ 5. Verified logs
+
+Accessed alerts with:
+ ```bash
+sudo cat /var/log/suricata/fast.log
+
